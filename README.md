@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Maaz Nabi Code World! <!DOCTYPE html> <html> <style> body { font-size: 20px; } </style> <body> <span style='font-size:100px;'>&#128075;</span> <p>I will display &#128075;</p> <p>I will display &#x1F44B;</p> </body> </html></h1>
+<h1 align="center">Welcome to Maaz Nabi Code World! :wave:</h1>
 <h3 align="center">A passionate frontend & Android developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
