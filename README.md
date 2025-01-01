@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Maaz Nabi Code World! :wave:</h1>
 <h3 align="center">A Passionate Frontend & Android Developer.</h3>
 
-<h3 align="left">   </h3>
+<h3 align="middle">   </h3>
 <p align="left">
 </p>
 
