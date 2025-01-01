@@ -8,6 +8,10 @@
 
 
 <h1 align="center">Welcome to Maaz Nabi Code World! 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Maaz_Nabi+Code+World!;+👋;" />
+</h1>
+
 <h3 align="center">A Passionate Frontend, Shopify, WordPress & Android Developer.</h3>
 
 - 🔭 I’m currently working on *Various Shopify and WordPress projects*
