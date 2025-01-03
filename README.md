@@ -57,7 +57,8 @@
 </div>
 
 
-
+![](https://komarev.com/ghpvc/?username=adeenalikhan&style=flat)
+[![Github](https://img.shields.io/badge/-adeenalikhan-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/adeenalikhan)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
