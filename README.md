@@ -59,7 +59,7 @@
 
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/raw/master/life_balance.gif" alt="side Image" align="right" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
+  <br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
