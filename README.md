@@ -57,7 +57,7 @@
 </div>
 
 
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/raw/master/life_balance.gif" alt="side Image" align="right" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
