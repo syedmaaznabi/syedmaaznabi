@@ -11,17 +11,7 @@
 
 <h3 align="center">A Passionate Tech Enthusiast.</h3>
 
-- 🔭 I’m currently working on *Various Shopify and WordPress projects
-
-- 👯 I’m looking to collaborate on *Frontend, Shopify and WordPress*
-
-
-
-
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="200" height="150" align="right">
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
