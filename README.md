@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Bonjour+Privet!;+👋;" />
 </h1>
 
-<h3 align="center">A Passionate Frontend, Shopify, WordPress & Android Developer.</h3>
+<h3 align="center">A Passionate Tech Enthusiast.</h3>
 
-- 🔭 I’m currently working on *Various Shopify and WordPress projects*
+- 🔭 I’m currently working on *Various Shopify and WordPress projects
 
 - 👯 I’m looking to collaborate on *Frontend, Shopify and WordPress*
 
